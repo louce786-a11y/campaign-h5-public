@@ -1,0 +1,34 @@
+{
+  "source_width": 1672,
+  "source_height": 941,
+  "source_aspect_ratio": 1.7768331562167907,
+  "crop": {
+    "panel_width": 497,
+    "panel_height": 884
+  },
+  "panels": {
+    "left": {
+      "x": 60,
+      "y": 26,
+      "width": 497,
+      "height": 884,
+      "aspect_ratio": 0.5622171945701357
+    },
+    "middle": {
+      "x": 588,
+      "y": 26,
+      "width": 497,
+      "height": 884,
+      "aspect_ratio": 0.5622171945701357
+    },
+    "right": {
+      "x": 1137,
+      "y": 26,
+      "width": 497,
+      "height": 884,
+      "aspect_ratio": 0.5622171945701357
+    }
+  },
+  "chroma_key": "#00FF00",
+  "transparent_pixels": 807896
+}

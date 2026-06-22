@@ -1,0 +1,55 @@
+{
+  "schema_version": "visual_spec_v1",
+  "campaign_title": "焕肤季惊喜券",
+  "business_type": "general",
+  "visual_style": [
+    "美妆个护",
+    "柔光陈列",
+    "精致瓶身",
+    "高级零售",
+    "高级"
+  ],
+  "coupon_slots": [
+    "9折券",
+    "7折券",
+    "5折券",
+    "6折券",
+    "8折券"
+  ],
+  "rule_text": "每位用户每日可参与1次，奖品以实际发放为准。",
+  "animation_family": "rolling_card_strip",
+  "h5_requirements": {
+    "viewport": {
+      "width": 750,
+      "height": 1334
+    },
+    "animation_family": "rolling_card_strip",
+    "template_id": "rolling_card_strip.default.v1",
+    "interactions": [
+      "rolling_card_strip",
+      "drag_card_strip",
+      "open_rules",
+      "close_modal",
+      "preview_track"
+    ],
+    "rolling_card_strip": {
+      "auto_cycle_ms": 2000,
+      "manual_resume_delay_ms": 4000,
+      "default_transition_ms": 360,
+      "drag_feedback_limit_px": 42,
+      "draw_align_ms": 400,
+      "draw_align_pause_ms": 200,
+      "roll_duration_ms": 6000,
+      "roll_variants": [
+        19,
+        22,
+        25
+      ],
+      "timing": "ease-out 1.2s settle",
+      "motion": "horizontal_drag_with_inertia",
+      "tension": "0.5",
+      "friction": "0.8",
+      "roll_step_px": 146
+    }
+  }
+}
