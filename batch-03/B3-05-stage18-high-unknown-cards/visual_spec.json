@@ -1,0 +1,60 @@
+{
+  "schema_version": "visual_spec_v1",
+  "campaign_title": "职场进阶福利营",
+  "business_type": "general",
+  "visual_style": [
+    "职业成长",
+    "课程证书",
+    "笔记本",
+    "进阶感",
+    "清晰营销感"
+  ],
+  "coupon_slots": [
+    "9折券",
+    "7折券",
+    "5折券",
+    "6折券",
+    "8折券"
+  ],
+  "rule_text": "每位用户每日可参与1次，奖品以实际发放为准。",
+  "animation_family": "rolling_card_strip",
+  "h5_requirements": {
+    "viewport": {
+      "width": 750,
+      "height": 1334
+    },
+    "animation_family": "rolling_card_strip",
+    "template_id": "rolling_card_strip.default.v1",
+    "interactions": [
+      "rolling_card_strip",
+      "drag_card_strip",
+      "open_rules",
+      "close_modal",
+      "preview_track"
+    ],
+    "rolling_card_strip": {
+      "auto_cycle_ms": 2000,
+      "manual_resume_delay_ms": 4000,
+      "default_transition_ms": 360,
+      "drag_feedback_limit_px": 42,
+      "draw_align_ms": 400,
+      "draw_align_pause_ms": 200,
+      "roll_duration_ms": 6000,
+      "roll_variants": [
+        19,
+        22,
+        25
+      ],
+      "timing": {
+        "roll_duration": "0.6s",
+        "decelerate_at_last": true
+      },
+      "motion": {
+        "initial_speed": "fast",
+        "snap_to_center": true,
+        "no_probability_display": true
+      },
+      "roll_step_px": 146
+    }
+  }
+}

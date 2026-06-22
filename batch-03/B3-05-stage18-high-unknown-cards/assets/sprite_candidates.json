@@ -1,0 +1,181 @@
+{
+  "schema_version": "sprite_candidates_v1",
+  "viewport": {
+    "width": 750,
+    "height": 1334
+  },
+  "source_file": "assets/ui_layer.png",
+  "candidates": [
+    {
+      "id": "candidate_rule_button",
+      "classification": "rule_button",
+      "assigned_id": "rule_button",
+      "bbox": {
+        "x": 674,
+        "y": 42,
+        "w": 60,
+        "h": 59
+      },
+      "size": {
+        "width": 60,
+        "height": 59
+      },
+      "area": 1309,
+      "center": {
+        "x": 703.371,
+        "y": 71.386
+      },
+      "source_file": "assets/ui_layer.png"
+    },
+    {
+      "id": "candidate_draw_button",
+      "classification": "draw_button",
+      "assigned_id": "draw_button",
+      "bbox": {
+        "x": 135,
+        "y": 1171,
+        "w": 458,
+        "h": 111
+      },
+      "size": {
+        "width": 458,
+        "height": 111
+      },
+      "area": 45292,
+      "center": {
+        "x": 363.316,
+        "y": 1225.038
+      },
+      "source_file": "assets/ui_layer.png"
+    },
+    {
+      "id": "candidate_unknown_1",
+      "classification": "unknown",
+      "assigned_id": "unknown",
+      "bbox": {
+        "x": 692,
+        "y": 55,
+        "w": 23,
+        "h": 33
+      },
+      "size": {
+        "width": 23,
+        "height": 33
+      },
+      "area": 285,
+      "center": {
+        "x": 704.151,
+        "y": 66.782
+      },
+      "source_file": "assets/ui_layer.png"
+    },
+    {
+      "id": "candidate_unknown_2",
+      "classification": "unknown",
+      "assigned_id": "unknown",
+      "bbox": {
+        "x": 275,
+        "y": 84,
+        "w": 198,
+        "h": 237
+      },
+      "size": {
+        "width": 198,
+        "height": 237
+      },
+      "area": 45148,
+      "center": {
+        "x": 373.504,
+        "y": 202.02
+      },
+      "source_file": "assets/ui_layer.png"
+    },
+    {
+      "id": "candidate_unknown_3",
+      "classification": "unknown",
+      "assigned_id": "unknown",
+      "bbox": {
+        "x": 475,
+        "y": 121,
+        "w": 136,
+        "h": 187
+      },
+      "size": {
+        "width": 136,
+        "height": 187
+      },
+      "area": 23767,
+      "center": {
+        "x": 542.055,
+        "y": 214.002
+      },
+      "source_file": "assets/ui_layer.png"
+    },
+    {
+      "id": "candidate_unknown_4",
+      "classification": "unknown",
+      "assigned_id": "unknown",
+      "bbox": {
+        "x": 138,
+        "y": 123,
+        "w": 135,
+        "h": 185
+      },
+      "size": {
+        "width": 135,
+        "height": 185
+      },
+      "area": 23483,
+      "center": {
+        "x": 205.018,
+        "y": 215.069
+      },
+      "source_file": "assets/ui_layer.png"
+    },
+    {
+      "id": "candidate_unknown_5",
+      "classification": "unknown",
+      "assigned_id": "unknown",
+      "bbox": {
+        "x": 10,
+        "y": 143,
+        "w": 126,
+        "h": 170
+      },
+      "size": {
+        "width": 126,
+        "height": 170
+      },
+      "area": 19973,
+      "center": {
+        "x": 72.547,
+        "y": 227.485
+      },
+      "source_file": "assets/ui_layer.png"
+    },
+    {
+      "id": "candidate_unknown_6",
+      "classification": "unknown",
+      "assigned_id": "unknown",
+      "bbox": {
+        "x": 612,
+        "y": 143,
+        "w": 126,
+        "h": 170
+      },
+      "size": {
+        "width": 126,
+        "height": 170
+      },
+      "area": 19886,
+      "center": {
+        "x": 674.899,
+        "y": 227.506
+      },
+      "source_file": "assets/ui_layer.png"
+    }
+  ],
+  "right_relative_layout": {
+    "cards": []
+  }
+}
