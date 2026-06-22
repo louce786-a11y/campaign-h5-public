@@ -1,0 +1,51 @@
+{
+  "source_three_view": "source_three_view.png",
+  "approval": {
+    "full_visual_9x16": "approval/full_visual_9x16.png",
+    "review_16x9": "approval/review_16x9.png"
+  },
+  "assets": {
+    "background_layer": "assets/background_layer.png",
+    "ui_layer": "assets/ui_layer.png",
+    "reference_full": "assets/reference_full.png",
+    "layout_detection": "assets/layout_detection.json",
+    "sprite_candidates": "assets/sprite_candidates.json"
+  },
+  "viewport": {
+    "width": 750,
+    "height": 1334
+  },
+  "crop": {
+    "panel_width": 499,
+    "panel_height": 887
+  },
+  "canvas_detection": {
+    "target_viewport": {
+      "width": 750,
+      "height": 1334
+    },
+    "panels": {
+      "left": {
+        "x": 58,
+        "y": 22,
+        "width": 499,
+        "height": 887,
+        "aspect_ratio": 0.5625704622322435
+      },
+      "middle": {
+        "x": 561,
+        "y": 0,
+        "width": 529,
+        "height": 941,
+        "aspect_ratio": 0.5621679064824655
+      },
+      "right": {
+        "x": 1124,
+        "y": 11,
+        "width": 514,
+        "height": 914,
+        "aspect_ratio": 0.562363238512035
+      }
+    }
+  }
+}
