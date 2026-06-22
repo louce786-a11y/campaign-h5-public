@@ -1,0 +1,20 @@
+{
+  "schema_version": "layout_detection_v1",
+  "viewport": {
+    "width": 750,
+    "height": 1334
+  },
+  "cards": [],
+  "buttons": [
+    {
+      "id": "rule_button",
+      "bbox": {
+        "x": 283,
+        "y": 462,
+        "w": 61,
+        "h": 35
+      },
+      "source": "reference_components"
+    }
+  ]
+}
